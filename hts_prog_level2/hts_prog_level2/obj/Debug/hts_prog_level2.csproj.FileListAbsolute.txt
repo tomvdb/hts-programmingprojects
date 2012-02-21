@@ -1,0 +1,8 @@
+c:\source\challenges\hts_prog_level2\hts_prog_level2\obj\Debug\ResolveAssemblyReference.cache
+c:\source\challenges\hts_prog_level2\hts_prog_level2\obj\Debug\hts_prog_level2.Form1.resources
+c:\source\challenges\hts_prog_level2\hts_prog_level2\obj\Debug\hts_prog_level2.Properties.Resources.resources
+c:\source\challenges\hts_prog_level2\hts_prog_level2\obj\Debug\hts_prog_level2.csproj.GenerateResource.Cache
+c:\source\challenges\hts_prog_level2\hts_prog_level2\bin\Debug\hts_prog_level2.exe
+c:\source\challenges\hts_prog_level2\hts_prog_level2\bin\Debug\hts_prog_level2.pdb
+c:\source\challenges\hts_prog_level2\hts_prog_level2\obj\Debug\hts_prog_level2.exe
+c:\source\challenges\hts_prog_level2\hts_prog_level2\obj\Debug\hts_prog_level2.pdb
